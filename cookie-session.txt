@@ -1,0 +1,4 @@
+DIFFERENCE BETWEEN A COOKIE AND A SESSION
+A SESSION is basically stored on the server while a COOKIE is stored on the client computer
+
+A SESSION terminates when a user closes the browser or leaves the site though it can persist for 30 minutes while a COOKIE can be permanently stored on a client computer
